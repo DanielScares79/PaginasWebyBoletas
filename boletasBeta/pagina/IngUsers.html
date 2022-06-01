@@ -1,0 +1,54 @@
+<html>
+    <meta charset="UTF-8">
+    <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"></xsl:stylesheet>
+<head>
+ <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script type="text/javascript">
+        var pasw1 = "1";
+        var pasw2 = "2";
+        function comprueba()
+        {
+        var pasw1=document.getElementById("P1").value;
+        var pasw2=document.getElementById("P2").value;
+       
+        if (pasw1 == pasw2)
+           {
+            
+        }
+        else
+          {
+              alert ("LAS CONTRASEÑAS No Coinciden!!"); 
+              location.reload();
+          }
+        if (pasw1 == ""){
+             alert ("CONTRASEÑAS EN BLANCO!!"); 
+              location.reload();
+        }
+        }
+                
+   </script>
+  
+</head>
+<body>
+ <div class=midivpanel>
+    <form id="form1" name="form1" method="post" action="AgregaUsuario.php">
+    <h1>INGRESO DE USUARIOS</h1>
+    <br>
+    <br>
+    <label for="C1">Nombre de usuario</label><meta charset="UTF-8">
+    <br>
+    <input type="text" name="C1" placeholder="Gabriel" required>
+    <br>
+    <br>
+    <label for="P1">INGRESE EL PASSWORD</label>
+    <br>
+    <input type="password" id="P1" name="Pass1" placeholder="" required>
+    <br>
+    <br>
+    <label for="P2">REINGRESE EL PASSWORD</label>
+    <br>
+    <input type="password" id="P2" placeholder=""  onblur="comprueba();" required>
+    <br><br>
+    <input type="submit" onclick="comprueba();" value="GRABAR">
+</div>
+     

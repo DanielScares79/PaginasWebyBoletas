@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo tecnomatico.cl</title>
+
+    <style>
+        .paginacarga {
+            width: 100%;
+            height: 100%;
+            background-color: rgb(255, 255, 255);
+            position: fixed;
+            margin: 0;
+            left: 0;
+            top: 0;
+        }
+
+        .paginacarga video {
+min-width: 100%; 
+  min-height: 100%;
+        }
+        
+        .pagina {
+            opacity: 1;
+            transition: opacity 3s;
+        }
+
+        .pagina.fade {
+            opacity: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="paginacarga pagina">
+    </div>
+    <div class="paginacargada pagina fade">
+        <h1>Pagina cargada!</h1>
+    </div>
+    <script>
+
+        window.addEventListener('load', function () {
+            document.querySelector('.paginacarga').innerHTML = '<video style="display:none" muted="muted"><source src="pop.mp4" type="video/mp4"></video>';
+            var video = document.querySelector('.paginacarga video');
+            video.addEventListener('loadeddata', function () {
+                video.style.display = '';
+                video.play();
+            }, false);
+            video.addEventListener('ended', function () {
+                document.querySelector('.paginacarga').classList.add('fade');
+                document.querySelector('.paginacargada').classList.remove('fade');
+                setTimeout(function() {
+                    document.querySelector('.paginacarga').remove();
+                }, 3500);
+            }, false);
+        });
+    </script>
+</body>
+
+</html>

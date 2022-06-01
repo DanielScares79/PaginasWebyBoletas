@@ -1,0 +1,339 @@
+/*
+Theme Name: JDS
+Author: DM
+Author URI: mailto:dmaxwebdesign@outlook.com
+Description: Hello everybody
+*/
+
+html,
+body {
+    height: 100%;
+    /*
+    Sr reveal fix
+    overflow-x: hidden;
+    */
+}
+
+@media (max-width: 991.98px) {
+    .offcanvas-collapse {
+        position: fixed;
+        top: 5.5rem;
+        /* Height of navbar */
+        bottom: 0;
+        left: 100%;
+        width: 50%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        overflow-y: auto;
+        visibility: hidden;
+        background-color: #4bbf73;
+        transition: transform .3s ease-in-out, visibility .3s ease-in-out;
+    }
+    .offcanvas-collapse.open {
+        visibility: visible;
+        transform: translateX(-100%);
+    }
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./imagenes/parcelasandielito.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    min-height: 600px;
+    width: 100%;
+    height: calc(100% + 10vw);
+}
+
+header .d-flex {
+    height: calc(100% - 10vw);
+}
+
+header .container-header {
+    text-align: center;
+}
+
+header .intro-text .intro-heading {
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+@media (min-width: 768px) {
+    header .intro-text .intro-heading {
+        font-size: 5em;
+        font-weight: 700;
+        line-height: 75px;
+        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+}
+
+header svg {
+    position: absolute;
+    width: 100%;
+    height: 10vw;
+    bottom: 0;
+    left: 0;
+}
+
+.navbar {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.navbar a {
+    color: #FFF;
+}
+
+@media (max-width: 992px) {
+    .navbar {
+        background: #4BBF73;
+    }
+    .navbar a.nav-link {
+        color: #b4ffe1;
+    }
+    .navbar a.nav-link.active {
+        color: #fff;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar.inscroll {
+        background: rgb(75 191 115 / 95%);
+    }
+    .navbar.inscroll a.nav-link {
+        color: #b4ffe1;
+    }
+    .navbar.inscroll a.nav-link.active {
+        color: #fff;
+    }
+}
+
+.semitrans {
+    border-radius: 10px;
+    background-color: transparent;
+    background-image: linear-gradient( 125deg, rgba(36, 36, 36, 0.3), rgba(36, 36, 36, 0.3));
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+}
+
+hr.separator {
+    width: 9em;
+}
+
+
+/*
+#ornamentales img {
+    height: 300px;
+    width: 100%;
+}
+*/
+
+
+#cargando {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: fixed;
+    z-index: 100000;
+}
+
+.isLoad {
+    overflow: hidden;
+}
+
+
+/*
+#ornamentales li {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;
+    position: relative;
+}
+
+#ornamentales li.hover {
+    transform: scale(1);
+}
+
+#ornamentales li.nothover {
+    transform: scale(0.8);
+    margin: 0px 5px 0px 5px;
+}
+*/
+
+@media (max-width: 768px) {
+    /*
+    #ornamentales img {
+        height: 150px;
+    }
+    */
+    section .display-4 {
+        font-size: 1.8em !important;
+    }
+    .semitrans {
+        border-radius: 0px;
+    }
+}
+
+.post-body img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
+a.whatsappFloat {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25d366;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, .21);
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, .21);
+    z-index: 100;
+    -webkit-transition: box-shadow 0.3s ease-out;
+    -moz-transition: box-shadow 0.3s ease-out;
+    -o-transition: box-shadow 0.3s ease-out;
+    transition: box-shadow 0.3s ease-out;
+}
+
+a.whatsappFloat:hover {
+    box-shadow: 2px 2px 20px 2px #25d366;
+}
+
+.gallery-start {
+    position: relative;
+    min-height: 300px;
+}
+
+.gallery-start svg {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 10vw;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+}
+
+.gallery-start .container {
+    padding-top: 10rem;
+    padding-bottom: 4rem;
+}
+
+.shadow-img {
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, .21) !important;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, .21) !important;
+}
+
+#contacto {
+    min-width: 100%;
+    position: relative;
+    min-height: 300px;
+    background-image: url('./imagenes/ViveroOnlyBG.png');
+    background-size: cover;
+}
+
+#contacto svg {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 10vw;
+    -webkit-transform: scale3d(-1, -1, -1);
+    transform: scale3d(-1, -1, -1);
+}
+
+#contacto .container {
+    padding-top: 12rem;
+    padding-bottom: 9rem;
+}
+
+#contacto .semitrans {
+    padding: 2.5rem;
+}
+
+#tecnomatico {
+    position: relative;
+    min-height: 300px;
+    margin-top: 0rem;
+}
+
+
+/*
+#tecnomatico svg {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 10vw;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+}
+*/
+
+@media (min-width: 992px) {
+    #tecnomatico img {
+        margin-top: -7rem;
+    }
+}
+
+#servicios {
+    position: relative;
+    min-height: 300px;
+}
+
+#servicios svg {
+    width: 100%;
+    height: 10vw;
+}
+
+#servicios svg.start {
+    position: absolute;
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    top: 0;
+}
+
+#servicios svg.end {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#servicios .container {
+    padding-top: 12rem;
+    padding-bottom: 2rem;
+}
+
+@media (min-width: 992px) {
+    #servicios .intro {
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media (max-width: 992px) {
+    #servicios .intro {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+hr {
+    margin: auto;
+}

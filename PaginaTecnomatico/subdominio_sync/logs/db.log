@@ -1,0 +1,5772 @@
+
+----------------------------
+New Database Error:
+-Hash: 2b2b599549d6b27b888b7871509cc93a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806631
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fdcbe2502bd7807b5b8b301a05e52df9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806637
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1c37314bdb19c5e5d14b236381ec8051
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806639
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cdde877a49cff4c351c4bdcb3d75545a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806642
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d94567eee647d43567147eeb08ca9775
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806647
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 88006348ca3689bfbc1e4f24ea293e4e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806655
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 199c0e8b2db315269198d0f37432d062
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806656
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 84e69e364334e768212e4b7f65221d2d
+-File:/home/tecnomat/public_html/subdominio_sync/api/esp.php
+-Line:46
+-Error: Query: "SELECT dvd_code, dvd_isdata, dvd_value, dvd_id FROM `sync_devicesyncdata` WHERE dvd_did = '9'", Error: "MySQL server has gone away"
+-Date: 1639806661
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 929d9b6492c0e4a41766c46de8abd3a5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806664
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 114527b29111610a220a272fc987831b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806667
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5d1b543e51828963702fee738831201f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806670
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1e9b6960326103e648c22beb6e5964ba
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639806674
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 30a1a4778f4698a7bb96808895fc0657
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639807351
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ee21b664e1c353ee24db14fbc58e7110
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639807354
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6714a2fb601eec28769635bfbc641b8a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639807357
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0374cb365e85db9bc54a522bae4e184c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639807360
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 441415d92523a70e151043f2dd17ac02
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639807366
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e6597be2fdb4e3913c7aed1bcc6c369b
+-File:/home/tecnomat/public_html/subdominio_sync/api/esp.php
+-Line:42
+-Error: Query: "SELECT device_id, device_lastuponsv FROM `sync_devices` WHERE device_mac = '84:F3:EB:B4:44:73' LIMIT 1", Error: "MySQL server has gone away"
+-Date: 1639807444
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6f3346e522383e066ce300498148e40e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639811196
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 031a40949488ff9ed90a176c8f2afa32
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639811206
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: dccb6adfaf188ac6d8ab37ec427df811
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639811208
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 14d2f955d38bb63ca2dc1d33af199af1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639811209
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8925c6b13334e2416ddcd0e36ba6d267
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639811220
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4171c9b59445496082d5a1280f711401
+-File:/home/tecnomat/public_html/subdominio_sync/api/esp.php
+-Line:42
+-Error: Query: "SELECT device_id, device_lastuponsv FROM `sync_devices` WHERE device_mac = '84:F3:EB:B4:44:73' LIMIT 1", Error: "MySQL server has gone away"
+-Date: 1639812471
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b940bc438c7495dfc94e649fb088d10a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820895
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6db07a86bce9f7a394fa52023799c5ab
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820910
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 02eab75dfda9523759b5546ebd2a3560
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820919
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5cff031d0848534c6d9d9bb5f76dd57f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820922
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 84364737d9bfe024029ed03d1dfe123c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820925
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ba6aa2a756c0fd781897524af56bd18c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820928
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 083414a34dfb02e92c6e29f132e3112b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820934
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 46ff89f71be3e05a8f271f1e78ce43bc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820944
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 79813b806985324262c3078c770be590
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820947
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5476e9e0a4826ca475c84b4c7a553f4b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820950
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6b77019638da3db03909c84eee979678
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820953
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a06b806eebc4ebb849e454abeb472e30
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820956
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f3e7a68298f2f07684b24cc0d0bce74b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820959
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c06fa77db197f6b2ab30c9fb39115b04
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820965
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9bf7a8d68ebe30bde945686983abbc21
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820968
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e2407a1ce0e6dcbfe582bacea64e77a8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820974
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e2407a1ce0e6dcbfe582bacea64e77a8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820974
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6ac1c5c2c3f6f0a5fd9da9473a4e82ba
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820977
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fc251cbc899cf567113950023ca9a4d2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820980
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 45394d67476f696d33358c907fc32e3c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820983
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 55a80f2ced392ed59d3bd0cfe28eed3a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820986
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 37734242cdc3b55412afdf7d56c6e3bc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820990
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a8e95b7a31825ab97092b71e6d9caded
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820993
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c316aa169539fc5cd9364c808ba88fc7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820996
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2e15f44a45419e89f122684f971433d8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639820999
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 761fd25a3592f2b7320c163f41042f50
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821002
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b627a1815ac451bce2aecd4185b8d96a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821005
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9962167d6e16c0662dd7a65c7e678085
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821008
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ab12fc3c7c41a119d11ed7a4b8def0da
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821011
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 31ee50d95b2938a6f9cbaa99cef2ec21
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821014
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cbd68105107d78cafcc9e4850269914d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821017
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e30148c75205d992c23440e3330c4ec6
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821020
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 923d46a8a9d2d0dc722ff98ebad46e2c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821023
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8f58c2e117dc5aacb5be6db3dd4bb020
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821026
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9dffe5b14eb4a26ac2c6a43136199559
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821029
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 091678c1ecae55927e3e56c3d601d5c7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821032
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: dd96d9c299e49714f2d09403d334fada
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821035
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bc661d6acd2be40f677cba1c4b0d10c9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821038
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8df2cf00f8c850c25ea15c120a7f7a0a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821041
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 41c3b64b099ee8c79d1b05aac6d368fb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821044
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4face482744c7f1031e39eef661cd2f9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821047
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9b9ea50cc5092c03bf5c98042d273761
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821051
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eb6c24a733acb39bcbd9899e550d6730
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821054
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 988f9c04974aeb9d0cfbc434892fe374
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821060
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: abfb7ed46d3a7b50436d36c198f469dd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821063
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 07fd48e0e8a03717d3502688068f9232
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821066
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a2874367fbb7a8bfe80593a6476a8c35
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821069
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6643bad0eeeb59b0c6e2cb5b113c29f1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821072
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 061d872076d340a179db7e8db7f3a080
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821075
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 44bc4d9cf6889b3f56c88ea1e20bf332
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821078
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d53e0a85b891e256f81779325e0a5204
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821081
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a4fae33e6dc5c074007eaf063a23a07f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821084
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2a6af093bda079d581654a14f6323652
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821087
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 493a456407245c801585c397935fa691
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821090
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 04ad6c44e69152a333e967ef5c820c1f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821093
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5f0d2b9d654d69495173bb046541d426
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821096
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c5d61a2ef60452d2e132dbd943d71e9a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821099
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3ba738513a75757e73f3eb3629380773
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821102
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3bfa43f4ff3aa17d6e9ce60ac99c2680
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821105
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 70b28a676ea7d78355a4071d29e8abbd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821109
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8a5ef42991407b08b140863074a97fa5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821112
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 316b5ada456b70cc068a510eb57e01f8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821115
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 13b477d89bc2c92a806daa6305dfedd6
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821118
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 54bb2f38fa3535a4a11870ce5385d1b9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821121
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f726539e5b799b797f8d4b4397cd59b7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821124
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b8b7445cf35e16c679c521959ff9910f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821127
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eac416c2f9414e96c4f04a481e14336a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821130
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 69d9cd3c584d8cb8a1a588fc8e0cf542
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821133
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 305d00827210fe02f27dacffd781217a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821136
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a8cfcbc2361a35727375e57887af8740
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821139
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 872812282844c47117a14731f07bd98b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821142
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 784453b31fa9dbbbb369f97550751c80
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821145
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f25e58867e163eed0ade4fee6a4f7c3c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821148
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2ae6f66a016cfeb1184b73e45705a081
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821151
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5b1e3f897992e261ce455d0d53408bb3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821155
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 06edfd247cbc3d7c0c4d54101b28f89b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821158
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 118d6dc51fe98d60bb114170293a7b51
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821161
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ac04a64c458314ea0ffd6dab2ef37abc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821164
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: edece9cdc484fdc06db24dcf45bc1e21
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821167
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 87fe4a6f382c2cc0ebe730dc98774c84
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821170
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e20fc72bbd418b4c0987eb72058bf1f3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821173
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5925bb8970366bc1d59c39a736fedbf1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821176
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 41cbe9bc96d7bfde22534fa4af9e8e52
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821179
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: acdc9e1cd28208033685984266cea749
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821182
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2a89d99f3a220031c9fb0b48aea4e87f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821185
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 05b84bf61f3601ba80d940a676967872
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821188
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cd07891da66088c85bf4c7d3ee252c63
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821191
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 24f5781d5c8b4127fbfb57d0d9b44771
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821194
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4a760cf6bd7532f1699d17cd26bcee76
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821200
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7e6a44f8d8ad54b17f4edc2df04e3811
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821204
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ace493613acf8479b67e2b8c0ec24e5c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821207
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eacffddf634a2c460a0ce9cff8cf75ec
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821210
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 23cf54bdfac6ff029e2697927ff9801b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821213
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ffe571c21383822fa1cae37cf4c63830
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821216
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 38662a053baa70f932d8c2f8f7c804a4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821219
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9c56bf7a2c6db2cc8c5ad96d96b306b0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821222
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bc269d05298d935512637cc903903a77
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821225
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4036d414961f851438339f76a54b2d09
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821228
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 40fdf72e2d316e40bfc2da146fd478be
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821231
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8c0eda92ba2da966ebb255b62c4ea6e0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821234
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8f3907cebba5eb2182b499877eadf171
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821237
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b82e1314734d0fb394ff942bb7826265
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821240
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 30804f249bf3ffe59c3a184d296e341a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821243
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 23edeb5c457d2dd9b9bf9019d25151fd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821247
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 511831325714f7f0d27a6a7de56228e1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821250
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d6d641a1c0e1ee67465c48d7fad074a3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821253
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 344ac475b7ba090e3c5d9c4118d3fe95
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821256
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1aa4a4a378c1867f7b371e8d75b17223
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821259
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4a26e58269c603555b32e6c905ed5a72
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821262
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0cf6d83badc6e500e56ce6fe7ee97efc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821265
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 73fa95f79a4755daa73bb69439b4805e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821268
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: df36dfa3c7a6ded397c6eb4beefc817e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821271
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7e530228613e2c7552b3e3262b579a9b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821274
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9effd936d6513238f653715bc2b5ad62
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821277
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b1db88daed00a3e52e67653f1e101abb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821280
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2b58cf4f5a6dcf3d45a7f47fef65add9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639821283
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 23832874db79abdd70f395e0eba019b2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821286
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1d432a048f3477bfcd226e373775c489
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821289
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f6559bc5a03409c604f5214c8a196852
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821292
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ae0f0558a0ad6b002d286751070ae712
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821295
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 576045fb274f1383cbddbbff6d202e66
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821298
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d01b89559c37a456a5222f50d8956d35
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821302
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e56e5baff9b50758205a657f77cd6bd9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: No existe el fichero o el directorio
+-Date: 1639821305
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e3b7e96e93c22ca2106ecc3c91a7c274
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639822502
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6edcd042a3a084a24769b235f561e460
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639822769
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 30adc523bcf04876fb7305f320890792
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639822802
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: acf6ccb9916a661cef6f740d6964435a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823195
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 671eb0799ca34fa3094bff951f46bc12
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823443
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: dd9d5f93997bf5d665f5f57a647bab82
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823566
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 64499ce9d6947a131c9556dc24e1144e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823584
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4eb182fa2b0e0d4fb002c52f310b4818
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823829
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1979ea466722828033f2258d8463b579
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823832
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eb722ff13736455693d2de4c84f9d615
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823841
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 05075dd95f682364b4b7e52195745254
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639823921
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7f2a0a54f292ef16255e39afbea3aed1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639824016
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2ae87c051710e01511522dceaa97a224
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639824482
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 67ecf4629ba05ac778f0c4a7cfadfda5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639824908
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 57790f70a803fbfca68368471ce426dc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639825214
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f283ba2e4741a19dfd839b99647bf1a1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639825389
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 349b725ce518c8fea6369137cb5dbf20
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639825864
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c88408f7b714464ccfdab74bc4ea3f77
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639825873
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 90d43188bd8072efc53653e401dda11c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639825996
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 771479768e348b421b0921c78eb00db5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827082
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 01f57775ed745bc184a7ae23df297b83
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827122
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 067fe59d5445b478f7aa528d076cabe3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827262
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 181e53d9a937382b2c3497496184f2f4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827431
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 27bae76a0a222d9eea7e65ab536670d2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827602
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fec306c5732577c7d50abc219bf0badf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827890
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 286616c19f1ee1cddc6a0d3d34a4043b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827893
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ded81fb2fe6d2134cb12e14fc4eddb1d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827932
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 72ce6b2ddb5fe9c78815277d1f2e97f5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639827944
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d549a9dffcb600d518842626c91cb001
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828070
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ec858115f7c0f39c6bf8738e29993418
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828186
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 71d60e373d4025d7c7b578fe61daa70c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828204
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ab8abe762ed601be7ac41426e0529bfc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828207
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 60e140a55474dfa7ebe120395490cab8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828210
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a8a4d372bb5e21afb85f0f9562dc384e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828324
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 95029763d7883ec66705ccb089e84eb1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828455
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1d9a2c8a8b7f8a3fa3f1c280ddfc766d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828507
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cdd570f5ea3b1c13ebe20eef3209c457
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828521
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8eef027d2d399e66dbe971824fb17916
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828644
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f0b9e3d76213e14ee117ba4bbbc9f4ad
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828742
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 38f34fc5b6e448edda0ed2f9537c9c4f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639828803
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d2daf56ae8b10da724b3a4051b0832c4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639829462
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 79e062b28470b5bca338823c2cd9cf11
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639830182
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7bcf3b410f8cf31105a38c2f7ef5a09d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639830351
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ccabc60212ee0ac0d66fc006f2e4b560
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639830768
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 49c11780377cef879fa989807574c053
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831028
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d9641ff5b112710053738717d4c985ba
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831035
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3b3c3a347b56819185ec124923a36344
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831231
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 225cedc8ec5c33038a93350aa09a1b3e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831326
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d61925ae3cd63130c102e2f2dcae5104
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831348
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: abe58f9e7690b1ae989725f8bf4b924c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831409
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9e2efbb572140d7a5203ddd6c3231e69
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831797
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3b06aaf9dd39e55b04130b98dc995a65
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831804
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 667df759594590a9d6be6ef83b6112a9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831834
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f68eddb58576d727ebf670be67086f46
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831956
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8026bb474a206bb23a2897bbfaf071a7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639831975
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cea6a7e67d8f5479c61e79cd334c6df7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832107
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d546fde866dfd2b014ac4baaf9e71a41
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832110
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fc237acc3afa6aff206c1b74af1d70e5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832113
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eb8dee1188573baee67158fbf300f190
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832125
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cf98813fcf21665c8a097f894de34db1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832168
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b8874cab0645ce26d92fe8b1fc0e5c58
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832171
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8cf1265f50da5c91793c013898775ee4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832199
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 357ef919d0430cb99eca92d7fe0fa583
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832239
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 03c2d7b5b491e1da71de3888d437aa96
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832257
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1b0ee2ac973c42b5fe84d1d2a7464021
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832266
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c7163760e9417b302b6c120647c91664
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832282
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 667f0c67e38b56efba14d0bf9f4921d4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832309
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f853c6278b074f2b8bfe98b01d88eb27
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832359
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0ae9639800d93be48506c24eea397326
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832362
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 84bebcbaf7eeed857ee9fc5a7a81b24d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832380
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6da40c72c9b1bb2d2fe4f1bc01838523
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832518
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3a3a20b989d561d6f219203eb40594d1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832589
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bc10f9e1e7b7a54bfdd99730e87dcfdf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832822
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 353348860775c6b35cbd3bc71e520c0c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832865
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3c9f0bd3e4296c3bb2380422905fde71
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639832942
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7cb9a33d8ece95c147d480164084bb2b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833046
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 98710089b33baac94b3a132fe946302c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833049
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f46d525b2e07c4e3d5d8d39e0e7efd85
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833203
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3b1c1c5380a6feaccd2162e07d609cf6
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833322
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 928519c1cb6f366fc199510aa7b504af
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833702
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f36f3da5719829abdc35d2886bb9f561
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639833935
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: aaef150ee93dd1b250a2bd1df28b74cd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834135
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ad9a2710ec254371f5fbb9b9ed3c88c5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834616
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7aa09d6f3b77edefdee3520c5da7fad5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834746
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 57f1628086b7d181a7425676340a3c5a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834785
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7a1befdb738c6490101933642350cf3a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834853
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 137807c34ff6811d8b042c01d44acc4c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834868
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b8c7ab9d43ec9df70a682d064ae81d4b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639834939
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f215a4d0cf49f9185ead6e4ecb839b02
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835181
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2ca41984e089464d2ffa4782162b5f29
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835184
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 37e77a6437c5460df693be68f4d283b5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835205
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5042fb20f3d8c8acbdb5f69c78d23887
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835322
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 98e5db02b0dab3385010de5abafd9bc7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835522
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 60b43b1b93fbafd93555f3e0e37f4c27
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835641
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9b2ad8969c357e7c5432d558fa5d46b9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835690
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fa5a4801fa9ac366527c844b77b64035
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639835850
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 715b345053d81c116bbb106eb8d6bf04
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836010
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f2d277bd7b08a26251b67f39295d6875
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836194
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cd4ad87d96f955cf0c2b097fa44a9ddb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836498
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 65025492d037fdd9e4c2f02a41c47bf1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836648
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a8bf39b4f7d2ade54aeff7d3c9598f66
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836676
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 208ff0d7f61ea94e6182389cc437b069
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836835
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e32f3505b6c57a57e69de37e86ff5caf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639836915
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: af8def94abf5df85146c0223fa37b748
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639837262
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8c599e2c98a9f6733d840fd53d76a27e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639837348
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 70ce6ea68be85b3d4107984e778a788b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639837562
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8eb522eea8c5767f1c9e5d8e81ff0228
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639837605
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f00d7f72e5b351a228b19c29f34ee5ed
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639837918
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 131448c610e7078f39740a387b0accf3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639838157
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bc3c3bac3bd15ab0ebacb75e9279a9bb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639838418
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ee5471e9c435a8e14f9d79f041adb5b3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639838522
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1c91f727bba8a7113e962633a6a43873
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639838602
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 512d56e6e23d4aa38820bf90b38b7e7c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639838605
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cda24d68fadb36f851fceba026d41919
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639839062
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b3e6b969e5abad856fae8f0f67b795b8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639839308
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f605b65bfec00852116c44f00ab8da3b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639840326
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7767d548c300f12645106124a0c72b0c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639840431
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: db72711be31f98aaf9c4a4c152648986
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639840587
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 062d9dbf6bb49fb38186cb2a3c49aafc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639840964
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a7990046a20369efc66641e2fab7632c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639840967
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: aaa7a8927c1dcfb45503ff2fe3806037
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841102
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 32bff87c26f6c4b60dbb638e198ca0ec
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841108
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 43698736673352d586f3e7e6e93a6b0d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841190
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 877de4f274e574e70d57e1f188518a6b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841402
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6626f84ace0a2b86d58276a536008965
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841448
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0d2ca1ac8cdcd2736afbd65591d4a41f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841451
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8e72a8ca6f7f280a6b6dc88e5807aede
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841458
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2c2cb9bff9e05e3a0cfdc7c936ed7fee
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841461
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ec2f89222e85bd9d4d35d267c218f725
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639841522
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 24adeb12e88fa64538cc8ff7da3b66db
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842111
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 19109b10d73063221255fde5d65da4f2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842249
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 057c6448a04bca0f3533ef8980fc72f0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842599
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cccf62769880b5f9a550e0890fb8436e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842618
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c45fd06b7c61e8c10ba3763324c9526a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842722
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ba9264c18fe76d067a9d7c107cded6a4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639842947
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6beced9181171e6c8e72b249ddcf9f7a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843036
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0512e0b168efe9465dfedcb74b306c4e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843039
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 97a8125bf477cd038aa42d63dd8cfef8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843042
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: db99bc9b112dfe770afd5a3b777967cc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843048
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ed718d3eefd5dfae83726b89e5b8f76a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843051
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4b5c915c6760092e7dc8c7e2916c9d0a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843082
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 899460c1fc1b3d7ab059b70b35587971
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843100
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fbf6dbedaf3c330ae12c0e4c4d41a262
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843202
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1391c48d90ed1db7a1c3ba179108b96d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843208
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d951bac7f9266ccd09fe7979d4adbb84
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843214
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b491566f7cc24c7d159f43ec4584d9c0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843235
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: eb5be8b5da0c6f6271ce4fcc26897d2c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843263
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a2efc1f4c4e094181c61ecfd07e437f1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843321
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 695340feb2cc583f1383d4c5ecd3c02c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843327
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ed347316f97fe9cc14ffb2535ca396b7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843395
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b3123017d5d1fd4cd4eae4bcc92aec73
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843502
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0ed729dc066af5e8336514a7997e94b3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843551
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d684340fff5f6a4d56cddf9e433d20c5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843609
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 83d5d24fbe8facc3b56b4d064c34ef57
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843750
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 67aef68b0f6a3507bd9f24cd286284fe
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843824
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0d5220dc2d084b0852ad7bdfeb143045
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843861
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 35add75705615406f290f8558ec6de8a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843901
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 83a023cd05adeabb4dc4d259aad6ca91
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843913
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bb1c98c034c081d80d310c940e1d92d2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843922
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5b91c3f2f0fa87855355aa90e657a307
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843962
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0eec5939b035c397b882241e7f56651a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843965
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 17ecd5a3ee6952698537d04e506525bc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639843968
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 605e60dca0779d701c43a03d8f873b88
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844042
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bdd1ece979e2922622a1b4c0965d7652
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844159
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 054bbf0d549b67a6a4e47ad3070bdc79
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844447
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c093ca000ec42dede4fa115c2d4e9e41
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844450
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 867d4273bf5880f873503ee748388770
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844456
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b075a0a94f59943ec2af52a64a016e7c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844463
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 2e5f4584538aed25c381e04780f2dd37
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844702
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3807eefe4fb39f87b9404158fb9d6913
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844733
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 728ee44182c91991400ddd24349aaeac
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844736
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 661c7b04208fc0552a77e60029ad0aaa
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844766
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e32b99780f0a288003ee58559fd7e6cd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844874
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e1f298ee0fabc2c651a12e856f5b5c70
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844923
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ea618ee35a619614aec20d60f61c4539
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639844994
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d4e7a81e5aece0ee0ddb10257e8dd8bc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845061
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 06866f251a987040d46af1f3ef20916c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845098
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 73e74447768f802e12565eb4aac10e11
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845267
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 82d8add9b421e6e7ddbe3c3934823273
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845298
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 37eb8d890c1ac6fabda890913e4fd7e7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845365
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3d2d2250aabe5469563ab2c315460ed0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845405
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 09d7222b81112cd9bda1269ec7e6c420
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845417
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0fec472d23a13f40fc8ac3ddeb428759
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845524
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 27d13f4610524e6a94a20b1dc2e86c41
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845543
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 305d0921dfb056c18547686b1759f552
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845607
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a2aea5c47f064b26fe1ef4d01efedf63
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845625
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b9a6dece2aefeaffd3d95a42ed74f22c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639845726
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 057216d3fe29da0b0acf33ba73634d21
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846057
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f88e0a8a08603fcf5b8e16b5f748edae
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846060
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b38c67e472aec465e76527cc026d4496
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846202
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1a723582d4c74961e595c0ec3ecae68e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846275
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ce3117ef20084e3b5499b888dbbd38db
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846334
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9f4824c52c99681f7957bffba4cba718
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846358
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a25f345eb37b40add1528d1ac9d03ad8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846383
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5a01fb16881243742340e329c67a9684
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846441
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b5c83e9ada204deb6420f4a2a34d88a3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846762
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b8283f897863c440e7fc96744627f4cf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846765
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 47b0605da66f898e86e2f247a98d494c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846820
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bf8e5a06cf61a79b98b59bbf8d51888a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846823
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e9f5a1b688ab1a13cdd6f1f267de4fb5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846844
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7dfc825d8b63b1d1073119de3e022311
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846847
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c16d2bad964c2a9a24a4d631c1ec3bed
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639846850
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5017305fb722ae1db2ff843416ee3796
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847222
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: dd53c001a85e29bafeb337a3149c43d7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847366
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f24aa6580bba10c454ffd375e1844cac
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847372
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 48abc996803909fc15d739950cb587e9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847467
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5c7e2f5e207546c648150e4cd7b65927
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847882
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ad2ed7b12a702b7b6275f24457c58102
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639847903
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 130aa011d95d6fb26e2308623c49f710
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848097
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 74a625e96d986fbf67cc2455f68b164c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848121
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7d126bd88dc5faaa0b96793b41ec23e8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848232
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d4b9894c237f52aa081d17d3db2757bf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848302
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7c9c183d6cf77b7eb408d522bebccca2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848305
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e7b19288d8cb859d7419940f412caf54
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848407
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5a4263581c7eb1ae8a7cbd5c385f5179
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848581
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0ec4a6150d4b4034d5f7d7ca3c645a12
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848609
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a7b539652623204a938f432ad3887d60
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848655
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: dcd7eee404bec841b2a8bf13d3cb4a82
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848682
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a7ee580fd2972f980c30bed6200f168b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848707
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c84fdd90cf648744eb93c622357147f7
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848762
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e98edb08537ed0de281763058d47d450
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848780
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 26730c2f77e71490b7b158e2bf85f820
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848891
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c8cc1fbd385dbde0f525bc9f81dbf6c1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639848906
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b0e4868a1465e6943f2ea949c1600ce5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849142
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5a3986f5a4385a22405155311f1c6618
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849200
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f426705ae5b5b6f82cf131bca5c5de43
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849231
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ec8ca20a7ea72b89ca3c87459d862c84
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849706
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c2bf099e843294a85be984a2d0055f26
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849970
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4fe5e307fec336b7ff214e5cd2203530
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849982
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 09b542114caa8d534f418228640ecc80
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639849991
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d86c3fd79690303f983b372cbd438631
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850013
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0c4b7a85398e170d84444080bccda495
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850016
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c53e5f062f2dc8ca035f947f60c5076e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850077
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 76082b60a33edb086200e0c7625205dc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850102
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 732526599313952dff3d0666d2d35d28
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850225
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 429d2306563b9c9eb20d2b67fc0c3440
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850240
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ed5f0df0e40cfd4eeca711c23ea7399e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850271
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ddf1b01d147ef9838caec8b81cc88cf1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850280
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b80788113d4ab9afc6bac0ffc965dceb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850283
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 15c4513d15995b0c7d7c0dfa56f5cda1
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850427
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: cc2ed6049eabd3944f82024ddebdacdd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639850988
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a73b32a20213cbf080276987b5f45ebf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851025
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 01e4ead7e948c33c35f0f477cdf06186
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851037
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 99cc9b136ef3d461d55a2cdc68d5ca9b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851064
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f425d3f1bc16a4d1aad459366009a574
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851077
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bbc3b8fb3d747ea1cf105f3388982929
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851080
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 66ac9402fad3658d051c4f89eac183aa
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851181
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: f3082fa78947de02c3ca7086ab6e11a2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851276
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b96017b2ff2dd3d4e8b348049def0cc0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851362
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a34a1c0aa9a7ef7ea7a17b918ee07234
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851549
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 61964a160e4b01d8c754af4d1beed87c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851568
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7b3f35da7bb6992a6c1375c067bab571
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851601
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a72f6e708450d78a8b12abc1d5f407d3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851736
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7f30e2d5d04eeaae659e24412f9ce4f2
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851896
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 65802fbb4a6ee563ac1fa2af1ae18224
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851902
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: daeb964a11cb67adc3fb5b74d83c298c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639851942
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 794c7dd051ce65c32cee018182586c01
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852236
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 957538ea0e59dcd90cefc33bbd8c0caa
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852252
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b228aad64cfa0a501f6a46213f855e45
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852478
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7e0e7fc010530584aa286b01decc4946
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852686
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: bf59c2fa15783ccc2caa2ada65282266
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852695
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 9e831fce76b87e8a597d166a94d888eb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852698
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7a2e4c679bf728ba8cc6d21784fcc9d4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639852900
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e9139fa12a1d20d02e88c87ba00ab45b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853151
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3223d9b3cc3cb6c79f7531402756e27f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853154
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 88613d96d0daf19e307ea566da8f0bf5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853507
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a5b501aca857ea9c8af786d7a835c8df
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853522
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 78d24801cabebe3b5ae52c4046bc45b0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853525
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 441b42368ca4d654f528a27dae99b482
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853553
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a282dc66c6da6bf54caef8e7e7ef1ae4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853666
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7a6a74aa5ac97141696bc4108082eaae
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853669
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b1ed6c66bfb92353cb77ed10913b7087
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853672
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c1ddcf90cc186ec337a8f680f07471c4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853675
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 88298df42c407eedf76900718af89158
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853691
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d8eda92131ee3f74b636cf99e659c98f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853700
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 03b9262ad6131e72db729b52c23bc23a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853703
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d1f0ec0f50e46ee3bbc09280f30b1b9b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853706
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4e7b239894a179b4fd65a8cbef018715
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853712
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d269e2a1514e1dd19b7510527db80a70
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853740
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c48cb6e52f2b139d2e0238c40407aea0
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853743
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 03ebf7bb9767b1f992a927799b46b17e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853767
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 1ccb87896d97614262efb0f30364d978
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853792
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 10ff2524009a2e8e2d0a82c196e1a44c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853862
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6e7672f4cfbccb243b8af6ffb53458bd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853869
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: ab94ae62a4a2b6a62abacea4c41f7a5e
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853881
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fc104c159278fd29dadbac19e56f0eeb
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639853942
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 68d411fe2e0fee1f50933beb722d83c9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854062
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 87306321829827402d7ac242a116a18c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854340
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 17905f98e3d014875d745bc12f86fce4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854614
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e94f5e92481767d069a2d148b0a2f2a9
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854626
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a0b090ee8779366fddf60cfeff9929b3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854650
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6415e56780f5a4404b0238706fd3ec80
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854687
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d36e83fd1751de8a37f8f8df1e963d83
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854690
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d160ce0ef164c88c018873ebaf5cb231
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854699
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6df7c2d830c47fcd849827c76217f307
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854733
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 0e491ed0b03ea898bdf18c059789dca6
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854736
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6a15834c948f81b29e71b142c6fba785
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854760
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 91058e1d6d358a3f6209ebefebea11dd
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854782
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 188be20015e90dabafcb995a82304a29
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854812
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c2722dec41e2f33757232612f05bf77c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854880
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c1d04681b3f48c1d278e6009e7655070
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854895
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 900827342add60c423d2442ee0eba229
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854898
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b8d8e2713818503b372cf2f735ea1ead
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639854978
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: aa1f4e052cbf0d7a5d901ac8e63e24e4
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855088
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: c6c1869a53d4e6d836c2fa20f567bb1b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855116
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a5794c90908314d4d50e94eaab9ccdea
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855180
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b348250dbc2295db4a8e92db25647820
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855187
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 7df78c5c146aa2e7868cfb3631d47695
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855275
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 85dbbc52147af1bdce9a45c9aeb8e76c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855299
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a7b469282281b19a5f27251c763a057b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855308
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 8d2003ca89615fe2aa79709b7592501d
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855360
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 02c072762e81d54f89a1fe0d0633c26a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855364
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 349282ae4344ef7f656ea9af4daf7af5
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855370
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 57640824c5a39feb9425f76cc12247d3
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855391
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3ef0aa7b87b85c93d7c4acb8232a4d4a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855440
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: fd11cbfbc6867dee4c165255ea5f12b6
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855468
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 77a9e4e97d8112db5186539e7bd38f2c
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855471
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 4ca8a20575cbaf7c853088ff14a7b330
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855483
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 856da6e617668b2f31767e1f8dda5019
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855486
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: e854629a00e92a2707c9dc97dcd21592
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855489
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 3a748bb128155c1e04c06acb93c50baf
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855495
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d6b830bdf12aad17945922a6030ff21a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855557
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 965708d0edd4c3aff2003bce68cc1bfc
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855600
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b07d8d2f5ba7f0e6951c95a7f118287f
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855802
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6dc1860f58353a5cc96df8794e41f414
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855885
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 479f6be97904ab94e3553ed835035800
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639855891
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a196963a93d423d31783b6005d5b0667
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856328
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 6cb7eaed178e6998e7f079e8c32e3f13
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856396
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: d2888bc0f1e9291aca47aecaf1ba4907
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856414
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 5c3520bea88dc2168a959e4b6f184d5b
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856417
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: 697bde96573b6c43c8fa2fb3fca91066
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856472
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: be9671628a66fee4586482ebb6760a05
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856475
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: b0866f3d31e46ea1d0052905cb4eaf6a
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856500
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------
+
+----------------------------
+New Database Error:
+-Hash: a6321920ad64645f8ddfe2fb926a37d8
+-File:/home/tecnomat/public_html/subdominio_sync/class/class.db.php
+-Line:18
+-Error: Connection failed: Too many connections
+-Date: 1639856521
+-User IP:207.248.201.46
+-Browser:ESP8266HTTPClient
+-User Headers:
+------------------------------

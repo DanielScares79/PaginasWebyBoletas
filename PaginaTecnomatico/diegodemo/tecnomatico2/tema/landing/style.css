@@ -1,0 +1,460 @@
+/* Stylesheet for tecnomatico.localhost
+   Designed by tecnomatico.localhost & Rascii.com
+*/
+
+@font-face {
+  font-family: "rascii tecnomatico";
+  src: url("fonts/rascii-tecnomatico.eot");
+  src: url("fonts/rascii-tecnomatico.eot?#iefix") format("embedded-opentype"),
+    url("fonts/rascii-tecnomatico.woff") format("woff"),
+    url("fonts/rascii-tecnomatico.ttf") format("truetype"),
+    url("fonts/rascii-tecnomatico.svg#rascii-tecnomatico") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  line-height: 1.75;
+}
+
+/* Color de la web */
+.text-tmcolor,
+#mainNav .navbar-brand,
+footer .webname,
+a,
+a:hover,
+.loadSplash .loader {
+  color: #00c0ff;
+}
+
+header span.text-tmcolor,
+header i.fa-chevron-down {
+  text-shadow: 1px 1px 18px #00c0ff;
+}
+
+/* Titulos */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1.display-5 {
+  font-size: 30px;
+}
+@media (min-width: 768px) {
+  h1.display-5 {
+    font-size: 5em;
+  }
+}
+
+/* Inputs */
+
+.form-control {
+  color: #fff;
+}
+
+.form-control:focus {
+  color: #fff;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #fff;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #fff;
+}
+
+.form-control::placeholder {
+  color: #fff;
+}
+
+select.form-control:focus::-ms-value {
+  color: #fff;
+}
+
+/* Secciones */
+
+section:not(.nosecpadding) {
+  padding: 100px 0;
+}
+@media (min-width: 768px) {
+  section:not(.nosecpadding) {
+    padding: 150px 0;
+  }
+}
+
+section h2.section-heading {
+  font-size: 50px;
+  font-weight: 100;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+section h3.section-subheading {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Seleccion del texto */
+
+::-moz-selection {
+  background: #00c0ff;
+  text-shadow: none;
+}
+
+::selection {
+  background: #00c0ff;
+  text-shadow: none;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+/* Menu o Navegacion */
+#mainNav .navbar-brand,
+footer .webname,
+.loadSplash h1,
+#productos .product-box h1 {
+  font-family: "Kaushan Script", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Header */
+header svg {
+  position: absolute;
+  width: 100%;
+  height: 10vw;
+  bottom: 0;
+  left: 0;
+}
+
+header {
+  text-align: center;
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../pics/earth.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  min-height: 600px;
+  width: 100%;
+  height: calc(100% + 10vw);
+}
+header .container-header {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  padding: 3em;
+  text-align: center;
+  top: 30%;
+  -webkit-transform: translateY(-15%);
+  -ms-transform: translateY(-15%);
+  transform: translateY(-15%);
+}
+
+header .intro-text .intro-heading {
+  font-size: 2.5em;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 25px;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+@media (min-width: 768px) {
+  header .intro-text .intro-heading {
+    font-size: 5em;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+      "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+}
+
+/* Section: Productos */
+#productos svg {
+  bottom: 0;
+  position: absolute;
+  width: 10em;
+  height: 100%; /* fix responsive */
+  display: none;
+}
+#productos svg.right {
+  right: 0;
+}
+@media (min-width: 768px) {
+  #productos svg {
+    display: block;
+  }
+}
+/* V2 */
+#productos .product-box {
+  width: 100%;
+  height: 24em;
+}
+#productos .product-bg {
+  background-size: 100% 100%;
+  z-index: 0;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+#productos .product-caption {
+  z-index: 1;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+#productos .product-link,
+#productos .product-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+#productos .product-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+#productos .product-link:hover .product-bg {
+  filter: blur(3px);
+  background-image: none;
+}
+#productos .product-link:hover .product-caption {
+  text-shadow: 1px 1px 12px black;
+}
+
+/* Section: Servicios */
+
+/* Section: Miembros */
+
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.team-member img {
+  width: 225px;
+  height: 225px;
+  border: 7px solid rgba(0, 0, 0, 0.1);
+}
+
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.team-member p {
+  margin-top: 0;
+}
+
+/* Section: Contacto */
+
+#contacto {
+  background-color: #212529;
+  background-image: url("https://tecnomatico.localhost/wp-content/uploads/2020/02/map.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: inset 0 0 16px rgba(0, 0, 0, 0.2),
+    inset 0 0 26px rgba(0, 0, 0, 0.6);
+}
+#contacto .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#contacto svg {
+  position: relative;
+  width: 100%;
+  height: 10vw;
+  bottom: 0;
+}
+#contacto svg.top {
+  transform: rotate(180deg);
+  top: 0;
+}
+
+#contacto .section-heading {
+  color: #5282ce;
+}
+
+@media (min-width: 768px) {
+  #contacto .container {
+    padding: 150px 0px 250px 0px;
+  }
+}
+
+/* Section: Porque Confiar */
+#porque-confiar {
+  background: linear-gradient(to left, #00c0ff, #008cba);
+  box-shadow: inset 0 0 16px rgba(0, 0, 0, 0.2),
+    inset 0 0 26px rgba(0, 0, 0, 0.6);
+}
+#porque-confiar .container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#porque-confiar svg {
+  position: relative;
+  width: 100%;
+  height: 10vw;
+  bottom: 0;
+}
+#porque-confiar svg.top {
+  transform: rotate(180deg);
+  top: 0;
+}
+#porque-confiar svg.bottom {
+  bottom: 0;
+}
+.trust-box {
+  border-radius: 0.5rem;
+  box-shadow: 7px 7px 30px -5px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+.trust-box-bg {
+  border-radius: 0.5rem 0px 0px 0.5rem;
+}
+
+/* MEDIA RULES */
+@media (min-width: 768px) {
+  #porque-confiar .container {
+    padding: 50px 0px;
+  }
+}
+
+/* LOADING */
+
+body.isLoad {
+  overflow: hidden;
+}
+.loadSplash {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #00c0ff;
+  z-index: 1000000;
+  top: 0;
+  left: 0;
+}
+.loadSplash .content {
+  width: 100%;
+  height: 100%;
+ -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+     -khtml-user-select: none;
+       -moz-user-select: none; 
+        -ms-user-select: none;
+            user-select: none;
+}
+/* FOOTER */
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+footer .first-bg {
+  background-color: #212529;
+}
+
+/* New Services Font by Rascii.com */
+/* Generated by Glyphter (http://www.glyphter.com) on  Sat Dec 28 2019*/
+[class*="iconrascii-"]:before {
+  display: inline-block;
+  font-family: "rascii tecnomatico";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.iconrascii-mejunje .icon {
+  z-index: 1;
+  position: absolute;
+  font-size: 5em;
+  padding: 28px 23px;
+}
+.iconrascii-mejunje .icon.iconrascii-alarmbell {
+  padding: 26px;
+}
+.iconrascii-mejunje .bg {
+  z-index: -1;
+  font-size: 8.5em;
+}
+.iconrascii-alarmbell:before {
+  content: "\0041";
+}
+.iconrascii-mobile:before {
+  content: "\0042";
+}
+.iconrascii-robot:before {
+  content: "\0043";
+}
+.iconrascii-webdesign:before {
+  content: "\0044";
+}
+.iconrascii-screwdriver:before {
+  content: "\0045";
+}
+.iconrascii-cogwheel:before {
+  content: "\0046";
+}
+.iconrascii-circle:before {
+  content: "\0047";
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #00b6f2;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}

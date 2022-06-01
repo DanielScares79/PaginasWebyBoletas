@@ -1,0 +1,184 @@
+/*
+Theme Name: Tecnomatico
+Theme URI: https://tecnomatico.cl
+Author: DM
+Author URI: mailto:dmaxwebdesign@outlook.com
+Description: Tema por defecto para Tecnomatico
+*/
+@import url("https://fonts.googleapis.com/css?family=Anton|Kaushan+Script|Montserrat:400,700|Roboto+Slab:100,300,400,700&display=swap");
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Paginas New */
+header.tm-page {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header.tm-page .tm-page-intro {
+  font-family: "Anton", sans-serif;
+  font-size: 5em;
+}
+header.tm-page .tm-page-content {
+  max-width: calc(100% - 28em);
+}
+@media (max-width: 992px) {
+  header.tm-page .tm-page-intro {
+    font-size: 3em;
+  }
+  header.tm-page .tm-page-content {
+    max-width: 100%;
+  }
+}
+
+/* Color de la web */
+.text-tmcolor,
+#mainNav .navbar-brand,
+footer .webname,
+a,
+a:hover,
+.loadSplash .loader {
+  color: #00c0ff;
+}
+
+#mainNav .navbar-brand,
+footer .webname {
+  font-family: "Kaushan Script", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Navbar */
+.cont-menu {
+  background-color: rgba(33, 37, 41, 0.92);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.cont-menu:not(.activated) nav {
+  border: none;
+  box-shadow: none;
+}
+@media (max-width: 782px) {
+  body.admin-bar .cont-menu.fixed-top:not(.activated) {
+    top: 46px;
+  }
+}
+@media (min-width: 782px) {
+  body.admin-bar .cont-menu.fixed-top {
+    top: 32px;
+  }
+}
+@media (min-width: 992px) {
+  .cont-menu:not(.activated):not(.is-page) {
+    background-color: transparent;
+  }
+  .cont-menu nav .navbar-brand {
+    font-size: 2.5em;
+    transition: all 0.3s;
+  }
+  .cont-menu.activated nav .navbar-brand {
+    font-size: 1.75em;
+    transition: all 0.3s;
+  }
+  body.admin-bar .cont-menu.fixed-top {
+    top: 32px;
+  }
+}
+
+/* FOOTER */
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+footer .first-bg {
+  background-color: #212529;
+}
+
+/* PAGINAS */
+.jumbo-thumbimg {
+  padding: 15em 0 10em 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-item-bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.landingSelector {
+  margin-top: -32px;
+  top: 50%;
+  right: 0;
+  position: fixed;
+  z-index: 100;
+}
+.landingSelector ul {
+  list-style: none;
+}
+.landingSelector ul li {
+  display: block;
+  width: 14px;
+  height: 13px;
+  margin: 0.5em 1em 0em 0em;
+  position: relative;
+}
+.landingSelector ul li a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none;
+}
+.landingSelector ul li a span {
+  border-radius: 50%;
+  position: absolute;
+  z-index: 1;
+  height: 4px;
+  width: 4px;
+  border: 0;
+  background: #fff;
+  left: 50%;
+  top: 50%;
+  margin: -2px 0 0 -2px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.landingSelector ul.is-dark li span {
+  background: #333;
+}
+.landingSelector ul li a.active span {
+  height: 12px;
+  width: 12px;
+  margin: -6px 0 0 -6px;
+  border-radius: 100%;
+}

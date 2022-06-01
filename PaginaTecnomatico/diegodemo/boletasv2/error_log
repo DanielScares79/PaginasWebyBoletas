@@ -1,0 +1,10 @@
+[19-Oct-2021 22:07:01 America/Santiago] PHP Warning:  Undefined variable $consulta in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verUsuarios.php on line 6
+[19-Oct-2021 22:07:01 America/Santiago] PHP Warning:  Attempt to read property "errno" on null in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verUsuarios.php on line 6
+[19-Oct-2021 22:07:04 America/Santiago] PHP Warning:  Undefined variable $consulta in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16
+[19-Oct-2021 22:07:04 America/Santiago] PHP Warning:  Attempt to read property "errno" on null in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16
+[28-Oct-2021 02:12:13 America/Santiago] PHP Warning:  Undefined variable $consulta in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16
+[28-Oct-2021 02:12:13 America/Santiago] PHP Warning:  Attempt to read property "errno" on null in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16
+[08-Nov-2021 18:53:29 America/Santiago] PHP Warning:  Undefined variable $consulta in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verUsuarios.php on line 6
+[08-Nov-2021 18:53:29 America/Santiago] PHP Warning:  Attempt to read property "errno" on null in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verUsuarios.php on line 6
+[08-Nov-2021 18:53:37 America/Santiago] PHP Warning:  Undefined variable $consulta in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16
+[08-Nov-2021 18:53:37 America/Santiago] PHP Warning:  Attempt to read property "errno" on null in /home/tecnomat/public_html/diegodemo/boletasv2/acciones/verBoletas.php on line 16

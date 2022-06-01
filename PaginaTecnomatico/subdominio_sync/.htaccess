@@ -1,0 +1,48 @@
+#php_value error_log /home/sadasdasd/phperrorslog_sync.log
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+# Tiene que ser la URL del sitio :p
+RewriteCond %{HTTP_HOST} !^(sync\.tecnomatico\.cl|tmsync\.localhost|192\.168\.0\.90|localhost) [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteRule (.*) https://sync.tecnomatico.cl%{REQUEST_URI} [R=302,L]
+
+# Https obligatorio exceptuand API
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/api/(.*)$ [NC]
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=302,L]
+
+# Errores
+ErrorDocument 401 /index.php?HTAERRORCODE=401
+ErrorDocument 403 /index.php?HTAERRORCODE=403
+ErrorDocument 404 /index.php?HTAERRORCODE=404
+
+#NO PERMITIR QUE SE LISTEN LOS DIRECTORIOS Y OTRAS COSAS UTILES
+Options +FollowSymLinks
+Options All -Indexes
+IndexIgnore *
+LimitRequestBody 10240000
+
+#MANEJAMOS TODOS LOS ARCHIVOS A TRAVES DEL INDEX.PHP
+#ESTO LO SAQUE DE WORDPRESS HEHE
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+</IfModule>
+
+#NO PERMITIR LA DESCARGA DE CIERTOS ARCHIVOS
+<FilesMatch "\.(htaccess|ini|log|cfg|nodownload|json|lock|csv|zip|rar)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Configure el paquete “ea-php73” como el lenguaje de programación predeterminado “PHP”.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

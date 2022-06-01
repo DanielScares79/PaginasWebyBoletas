@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^alumnos\.jardindelsur\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.alumnos\.jardindelsur\.cl$
+RewriteRule ^/?$ "http\:\/\/www\.jardindelsur\.cl\/alumnos" [R=301,L]
+

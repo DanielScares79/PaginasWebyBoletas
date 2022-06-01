@@ -1,0 +1,4 @@
+[11-Nov-2021 21:40:09 America/Santiago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tecnomat_daniel'@'localhost' (using password: YES) in /home/tecnomat/public_html/ajaxContacto.php on line 113
+[18-Nov-2021 00:41:07 America/Santiago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tecnomat_daniel'@'localhost' (using password: YES) in /home/tecnomat/public_html/ajaxContacto.php on line 113
+[18-Nov-2021 13:35:00 America/Santiago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tecnomat_daniel'@'localhost' (using password: YES) in /home/tecnomat/public_html/ajaxContacto.php on line 113
+[03-Dec-2021 23:30:35 America/Santiago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tecnomat_daniel'@'localhost' (using password: YES) in /home/tecnomat/public_html/ajaxContacto.php on line 113
